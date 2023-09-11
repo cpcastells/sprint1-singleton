@@ -1,0 +1,16 @@
+{
+  "name": "sprint1-singleton",
+  "version": "1.0.0",
+  "description": "singleton pattern",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
